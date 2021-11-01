@@ -1,0 +1,91 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+.menu-container {
+    color: #fff;
+    background-color: #002c5e;
+    padding: 10px 0;
+    display: flex;
+    justify-content: center;
+  }
+
+.menu {
+    width: 900px;
+    display: flex;
+    justify-content: space-between;
+  }
+
+.login {
+    margin-left: 20px;
+  }
+
+.signup {
+    margin-left: auto;
+  }
+
+.banner-container {
+    background-color: black;
+    text-align: center;
+  }
+
+.banner {
+    text-align: center;
+  }
+
+  /*Delphi*/
+
+.delphi {
+  text-align: center;
+  background-color: black;
+  }
+
+.delphi-title {
+  text-align: center;
+  font-family: "TimesNewRoman";
+  font-size: 64px;
+  color: white;
+  padding-top: 200px;
+  padding-bottom: 20px;
+  }
+
+.delphi-description {
+  text-align: left;
+  font-family: "TimesNewRoman";
+  font-size: 30px;
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 80px;
+  }
+
+.delphi-section-1 {
+  text-align: left;
+  font-family: "TimesNewRoman";
+  font-size: 30px;
+  color: white;
+  padding-bottom: 200px;
+  }
+.delphi-section-2 {
+    text-align: right;
+    font-family: "TimesNewRoman";
+    font-size: 30px;
+    color: white;
+    padding-bottom: 200px;
+  }
+.delphi-section-3 {
+      text-align: left;
+      font-family: "TimesNewRoman";
+      font-size: 30px;
+      color: white;
+      padding-bottom: 200px;
+  }
+.delphi-section-4 {
+        text-align: right;
+        font-family: "TimesNewRoman";
+        font-size: 30px;
+        color: white;
+        padding-bottom: 200px;
+  }
+  /*End Delphi/*
